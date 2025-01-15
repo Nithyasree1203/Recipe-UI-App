@@ -6,8 +6,9 @@ Home Page :
 
 Searching a Recipe :
 Below is an example of what the search outcome looks like:
-![Screenshot 2025-01-15 194957](https://github.com/user-attachments/assets/6792b05a-3ea0-4135-995f-7947c6977488)
-![Screenshot 2025-01-15 191451](https://github.com/user-attachments/assets/b2d5fb43-e956-4786-abea-6a4c3bbe30c8)
+![Screenshot 2025-01-15 191357](https://github.com/user-attachments/assets/ea0c7130-1e83-4724-b7d1-91d01f939828)
+![Screenshot 2025-01-15 194957](https://github.com/user-attachments/assets/eaa84ad3-a3a8-4124-9a7c-41ae05254978)
+
 
 Ingredients and Instructions :
 By clicking on the recipe button, users can view detailed lists of ingredients and step-by-step instructions for each recipe, ensuring a delightful cooking experience
