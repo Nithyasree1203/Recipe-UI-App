@@ -3,14 +3,17 @@ Welcome to the Recipe UI App repository! This project is a web application desig
 
 Home Page :
 ![Screenshot 2025-01-15 185612](https://github.com/user-attachments/assets/e78c4272-0762-4974-9d69-71d7b29be077)
+
 Searching a Recipe :
 Below is an example of what the search outcome looks like:
-![Screenshot 2025-01-15 191357](https://github.com/user-attachments/assets/ee54bbd4-e379-4a5b-b61c-3162ef3c4b11)
+![Screenshot 2025-01-15 194957](https://github.com/user-attachments/assets/6792b05a-3ea0-4135-995f-7947c6977488)
 ![Screenshot 2025-01-15 191451](https://github.com/user-attachments/assets/b2d5fb43-e956-4786-abea-6a4c3bbe30c8)
+
 Ingredients and Instructions :
 By clicking on the recipe button, users can view detailed lists of ingredients and step-by-step instructions for each recipe, ensuring a delightful cooking experience
 ![Screenshot 2025-01-15 190716](https://github.com/user-attachments/assets/928077cf-4369-4dba-b638-72f9b5c29209)
 ![Screenshot 2025-01-15 190835](https://github.com/user-attachments/assets/55e68757-4303-492f-9699-83be6413790d)
+
 No Recipe Found:
 If a recipe matching the search criteria is not found, the application will display a message indicating that no recipes were found, along with a sad emoji to enhance user experience.
 ![Screenshot 2025-01-15 185812](https://github.com/user-attachments/assets/0931705e-6563-40e4-ba73-0dc3c7e0ff13)
